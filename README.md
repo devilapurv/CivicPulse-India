@@ -1,5 +1,5 @@
 # CivicPulse India
-### AI-Powered Civic Complaint Intelligence & Ward Prioritization
+###  Civic Complaint Intelligence & Ward Prioritization
 
 CivicPulse India is a data-driven civic intelligence platform designed to analyze urban complaints, identify unusual reporting patterns, prioritize wards, and recommend targeted actions for civic authorities.
 
